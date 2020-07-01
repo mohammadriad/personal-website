@@ -1,0 +1,100 @@
+h1{
+    font-size: 30px;
+    font-weight: 1000;
+    color: tomato;
+}
+span{
+    color: green;
+    font-weight: 700;
+}
+.half-width img{
+    width: 100%;
+}
+.half-width{
+         width: 40%;
+         float: left;
+         margin-left: 5%;
+         padding-left: 2%;
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon,tomato );
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+
+}
+.biography{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 400px;
+    padding-bottom:10px;
+}
+.small-pic img{
+    box-shadow: 20px 20px 70px yellowgreen;
+    width: 27%;
+    border-radius: 10px;
+    border:4px dotted greenyellow;
+    float: left;
+    padding: 2px;
+    margin: 10px;
+
+}
+.align-center{
+    text-align: center;
+    font-weight:1000;
+}
+#client{
+    box-shadow: 10px 20px 30px yellowgreen;
+    width: 45%;
+    border-radius: 10px;
+    border:2px dotted tomato;
+    float: left;
+    padding: 2px;
+    margin: 2px;
+
+}
+#abid{
+    box-shadow: 10px 20px 30px yellowgreen;
+    width: 45%;
+    border-radius: 10px;
+    border:2px dotted tomato;
+    float: left;
+    padding: 2px;
+    margin: 2px;
+
+}
+.center{
+    text-align: center;
+    font-weight: 900;
+    font-size: larger;
+}
+#gmail{
+    padding:10px 30px;
+    margin: 180px;
+}
+.align{
+    text-align: center;
+}
+.small{
+    height: 70px;
+    padding-bottom:5px;
+
+}
+.bg{
+    background-color: rgba(248, 42, 6, 0.247);
+}
+footer{
+    text-align: center;
+    font-size: 10px;
+    color: black;
+    font-weight: 800;
+}
